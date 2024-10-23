@@ -1,4 +1,4 @@
-package com.example.barchart
+package com.eunjulee.barchart
 
 import org.junit.Test
 

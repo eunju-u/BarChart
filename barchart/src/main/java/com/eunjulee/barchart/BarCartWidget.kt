@@ -1,4 +1,4 @@
-package com.example.barchart
+package com.eunjulee.barchart
 
 import android.util.Log
 import androidx.compose.foundation.Canvas

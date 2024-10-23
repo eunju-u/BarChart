@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.barchart"
+    namespace = "com.eunjulee.barchart"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.barchart"
+        applicationId = "com.eunjulee.barchart"
         minSdk = 28
         targetSdk = 34
         versionCode = 1

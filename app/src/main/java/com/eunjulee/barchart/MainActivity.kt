@@ -1,4 +1,4 @@
-package com.example.barchart
+package com.eunjulee.barchart
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -19,9 +19,9 @@ import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.barchart.ui.theme.BarChartTheme
-import com.example.barchart.ui.theme.Pink80
-import com.example.barchart.ui.theme.Purple80
+import com.eunjulee.barchart.ui.theme.BarChartTheme
+import com.eunjulee.barchart.ui.theme.Pink80
+import com.eunjulee.barchart.ui.theme.Purple80
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
