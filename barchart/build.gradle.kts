@@ -50,6 +50,10 @@ dependencies {
 }
 
 mavenPublishing {
+    publishToMavenCentral(SonatypeHost.CENTRAL_PORTAL) // Maven Central distribution location
+
+    signAllPublications() // distribution gpg signing
+
     // implementation("io.github.eunju-u:compose-bar-chart:1.0.0")
     coordinates(
         groupId = "io.github.eunju-u", // namespace
@@ -84,8 +88,4 @@ mavenPublishing {
             url.set("https://github.com/eunju-u/ComposeBarChart")
         }
     }
-
-    publishToMavenCentral(SonatypeHost.CENTRAL_PORTAL) // Maven Central distribution location
-
-    signAllPublications() // distribution gpg signing
 }
