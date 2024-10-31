@@ -171,7 +171,8 @@ fun BarCartWidget(
                             barWidth,
                             gridLineSpacing,
                             gridLineStrokeWidth,
-                            color
+                            color,
+                            shape
                         )
                     }
                 }
@@ -254,6 +255,7 @@ private fun TypeBGraph(
     lineSpacing: Dp,
     lineDp: Dp = 1.dp,
     color: List<Color>,
+    shape: RoundedCornerShape,
 ) {
     val size = item.size
     val heightGraph = ((size / unit) * lineSpacing) + ((size % unit) * 4.5.dp)
@@ -279,7 +281,7 @@ private fun TypeBGraph(
                 Modifier
                     .fillMaxWidth()
                     .height(heightGraph)
-                    .background(gradient)
+                    .background(gradient, shape)
             )
         }
     }
