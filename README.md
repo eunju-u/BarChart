@@ -1,12 +1,11 @@
 # BarCart
    A Type    |       B Type        |
 :-------------------------:|:-------------------------:
- ![image](https://github.com/user-attachments/assets/f474fcef-142a-4ff7-a647-c8f8c91b5527)  |  ![image](https://github.com/user-attachments/assets/3b083eda-5c08-4af9-a58b-b0ededa0181a)
+ ![image](https://github.com/user-attachments/assets/af8c2ffc-bc34-4c79-b0d0-20e938959a99)  |  ![image](https://github.com/user-attachments/assets/fafaf335-9df2-4f90-b5f7-c0273bf4b22a)
 
    A Type - showYAxisUnit is true    |       B Type - showYAxisUnit is true        |
 :-------------------------:|:-------------------------:
-https://github.com/user-attachments/assets/9ec295cd-6ead-4967-8308-dc04c5183010  |  https://github.com/user-attachments/assets/829610b8-c55d-4b65-8792-b5fa7dab1f91
-
+ ![image](https://github.com/user-attachments/assets/0d2f9151-ae5e-4574-b6ae-af66c0ea2654)  |   ![image](https://github.com/user-attachments/assets/ba7ce04d-bd06-4cad-91fb-487484c05de1)
 
 
 
